@@ -1,0 +1,17 @@
+
+html{
+    padding: 0;
+    margin: 0;
+}
+
+
+/*====================*/
+/*======Navbar========*/
+/*====================*/
+
+#icon-principal{
+    position: absolute;
+    z-index: 3;
+    left: 1.5em;
+    top: .5em;
+}
